@@ -1,0 +1,1 @@
+thi is my static file in shop
